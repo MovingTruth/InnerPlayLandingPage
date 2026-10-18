@@ -1,72 +1,301 @@
 {
-  "translations": {
-    "Inner Play is a quiet cabinet of tactile digital objects: believable motion, sound, and haptics for busy hands. Coming soon to iPhone.": "Inner Play คือตู้เล็กอันสงบของวัตถุดิจิทัลที่สัมผัสได้: การเคลื่อนไหว เสียง และแรงสั่นที่น่าเชื่อสำหรับมือที่อยากเคลื่อนไหว เร็ว ๆ นี้บน iPhone",
-    "Inner Play — by Moving Truth": "Inner Play — โดย Moving Truth",
-    "Skip to main content": "ข้ามไปยังเนื้อหาหลัก",
-    "Inner Play home": "หน้าหลัก Inner Play",
-    "Open navigation": "เปิดเมนูนำทาง",
-    "Main navigation": "เมนูนำทางหลัก",
-    "The objects": "วัตถุ",
-    "How they respond": "การตอบสนอง",
-    "Made for your senses": "สร้างมาเพื่อประสาทสัมผัสของคุณ",
-    "Availability": "การวางจำหน่าย",
-    "All apps": "แอปทั้งหมด",
-    "Provisional icon": "ไอคอนชั่วคราว",
-    "Provisional Inner Play icon: a dark metal kinetic dial glowing warmly from within": "ไอคอน Inner Play ชั่วคราว: แป้นหมุนโลหะสีเข้มที่เรืองแสงอุ่นจากภายใน",
-    "Something for your hands. Space for your mind.": "บางสิ่งสำหรับมือ พื้นที่สำหรับใจ",
-    "Coming soon to iPhone": "เร็ว ๆ นี้บน iPhone",
-    "Coming soon": "เร็ว ๆ นี้",
-    "Open the cabinet": "เปิดตู้",
-    "scroll to reach in": "เลื่อนแล้วเอื้อมมือเข้าไป",
-    "Like opening a drawer of well-made objects in a quiet room.": "เหมือนเปิดลิ้นชักที่เต็มไปด้วยของทำอย่างดีในห้องอันเงียบสงบ",
-    "Inner Play is a small cabinet of tactile digital objects. Spin something with weight. Cross the threshold of a switch. Turn, slide, press, hold, and release—and feel the object answer honestly.": "Inner Play คือตู้เล็กของวัตถุดิจิทัลที่สัมผัสได้ หมุนสิ่งที่มีน้ำหนัก ข้ามจุดเปลี่ยนของสวิตช์ หมุน เลื่อน กด ค้าง แล้วปล่อย—สัมผัสว่าวัตถุตอบอย่างซื่อตรง",
-    "Not a task. Not a lesson. Not a score to improve. Somewhere for the hand to go.": "ไม่ใช่งาน ไม่ใช่บทเรียน ไม่ใช่คะแนนที่ต้องเพิ่ม เป็นเพียงที่ให้มือได้ไป",
-    "Ways to interact with Inner Play": "วิธีเล่นกับ Inner Play",
-    "Spin": "หมุน",
-    "Switch": "สลับ",
-    "Slide": "เลื่อน",
-    "Press & hold": "กดค้าง",
-    "Does the hand believe it?": "มือเชื่อหรือไม่ว่าสิ่งนี้จริง",
-    "Every response comes from the same physical state.": "ทุกการตอบสนองมาจากสถานะทางกายภาพเดียวกัน",
-    "An object feels real when its movement, resistance, sound, haptics, and visible state agree. Inner Play is being built so touch creates the response—not a canned animation pretending that it did.": "วัตถุรู้สึกจริงเมื่อการเคลื่อนไหว แรงต้าน เสียง แรงสั่น และสภาพที่มองเห็นสอดคล้องกัน Inner Play สร้างให้การสัมผัสก่อให้เกิดการตอบสนองจริง ไม่ใช่แอนิเมชันสำเร็จรูปที่แกล้งทำ",
-    "Movement with consequence": "การเคลื่อนไหวที่มีผลตามมา",
-    "Momentum, thresholds, travel, friction, and rest belong to the object.": "แรงเฉื่อย จุดเปลี่ยน ระยะเคลื่อน แรงเสียดทาน และการหยุดนิ่งเป็นคุณสมบัติของวัตถุ",
-    "Sound made by motion": "เสียงที่เกิดจากการเคลื่อนไหว",
-    "Speed, contact, and position shape what you hear and when you hear it.": "ความเร็ว การสัมผัส และตำแหน่งกำหนดสิ่งที่ได้ยินและเวลาที่ได้ยิน",
-    "Haptics with a reason": "แรงสั่นที่มีเหตุผล",
-    "Detents, texture, actuation, and release are felt at meaningful moments.": "จุดล็อก พื้นผิว การทำงาน และการปล่อยถูกรับรู้ในช่วงเวลาที่มีความหมาย",
-    "State that stays true": "สถานะที่ยังคงจริง",
-    "The object remains where the interaction left it until something moves again.": "วัตถุอยู่ในตำแหน่งที่การเล่นทิ้งไว้จนกว่าจะมีสิ่งใดขยับอีกครั้ง",
-    "Play without pressure": "เล่นโดยไร้แรงกดดัน",
-    "No streaks. No scores. No demand to return.": "ไม่มีสถิติต่อเนื่อง ไม่มีคะแนน ไม่มีข้อเรียกร้องให้กลับมา",
-    "Inner Play can be satisfying without becoming loud, and playful without becoming childish. Open the cabinet, use what feels right, and leave without penalty.": "Inner Play ให้ความพึงพอใจโดยไม่ต้องส่งเสียงดัง และสนุกได้โดยไม่ทำให้เป็นเด็ก เปิดตู้ ใช้สิ่งที่รู้สึกเหมาะ แล้วจากไปได้โดยไม่มีโทษ",
-    "It offers sensory play and focus-friendly interaction without making medical promises.": "มอบการเล่นผ่านประสาทสัมผัสและการโต้ตอบที่ช่วยจดจ่อ โดยไม่ให้คำมั่นทางการแพทย์",
-    "Rich when you want it. Complete when something is off.": "เต็มเปี่ยมเมื่อคุณต้องการ และยังสมบูรณ์เมื่อบางสิ่งถูกปิด",
-    "Sound and haptics will have independent controls. Silence is a complete mode. Reduce Motion preserves understandable cause and effect with less continuous movement. VoiceOver exposes the object, its state, and meaningful ways to act on it.": "เสียงและแรงสั่นมีตัวควบคุมแยกกัน ความเงียบคือโหมดที่สมบูรณ์ Reduce Motion รักษาเหตุและผลให้เข้าใจได้ด้วยการเคลื่อนไหวต่อเนื่องที่น้อยลง VoiceOver บอกวัตถุ สถานะ และวิธีใช้งานที่มีความหมาย",
-    "No state depends only on color, sound, motion, sight, or haptic feedback.": "ไม่มีสถานะใดพึ่งพาเพียงสี เสียง การเคลื่อนไหว การมองเห็น หรือแรงสั่น",
-    "Every primary object remains usable with sound or haptics disabled.": "วัตถุหลักทุกชิ้นยังใช้งานได้เมื่อปิดเสียงหรือแรงสั่น",
-    "Touch targets and alternative actions are part of the object from the beginning.": "พื้นที่สัมผัสและการกระทำทางเลือกเป็นส่วนหนึ่งของวัตถุตั้งแต่เริ่มต้น",
-    "Accessibility is part of deciding what the object is—not something added around it.": "การเข้าถึงเป็นส่วนหนึ่งของการตัดสินว่าวัตถุคืออะไร ไม่ใช่สิ่งที่เพิ่มทีหลัง",
-    "An intention for Inner Play": "เจตนาสำหรับ Inner Play",
-    "May every object answer the hand honestly.": "ขอให้ทุกวัตถุตอบมืออย่างซื่อตรง",
-    "May movement make room without making demands.": "ขอให้การเคลื่อนไหวเปิดพื้นที่โดยไม่เรียกร้อง",
-    "May play remain simple, dignified, and free.": "ขอให้การเล่นยังคงเรียบง่าย มีศักดิ์ศรี และเป็นอิสระ",
-    "About Moving Truth": "เกี่ยวกับ Moving Truth",
-    "Moving Truth. Opens movingtruth.com": "Moving Truth เปิด movingtruth.com",
-    "Moving Truth logo": "โลโก้ Moving Truth",
-    "by Moving Truth": "โดย Moving Truth",
-    "Made with love by Skylaur Roe": "สร้างด้วยความรักโดย Skylaur Roe",
-    "Explore all Moving Truth apps": "สำรวจแอป Moving Truth ทั้งหมด",
-    "The first objects are taking shape.": "วัตถุชิ้นแรกกำลังก่อร่าง",
-    "Inner Play is being built natively for iPhone. Its first proof begins with one believable spinner and one physical switch before the cabinet grows.": "Inner Play กำลังสร้างแบบเนทีฟสำหรับ iPhone หลักฐานแรกเริ่มจากวงล้อหนึ่งชิ้นที่น่าเชื่อและสวิตช์ทางกายภาพหนึ่งตัว ก่อนที่ตู้จะเติบโต",
-    "Ask about Inner Play": "สอบถามเกี่ยวกับ Inner Play",
-    "Footer navigation": "เมนูนำทางส่วนท้าย",
-    "Accessibility": "การเข้าถึง",
-    "Support": "ฝ่ายช่วยเหลือ",
-    "© 2026 Inner Play by Moving Truth. Coming to iPhone.": "© 2026 Inner Play โดย Moving Truth. เร็ว ๆ นี้บน iPhone"
-  },
-  "scriptTranslations": {
-    "Close navigation": "ปิดเมนูนำทาง",
-    "Open navigation": "เปิดเมนูนำทาง"
+  "schema": "release-fabric/catalog@2",
+  "messages": {
+    "inner-play.index.text.0001": {
+      "value": "Inner Play — โดย Moving Truth",
+      "sourceSha256": "750f36853c2aaba671cd7c185ac3aec635c5873767599e3cd18f24036189ca2a"
+    },
+    "inner-play.index.text.0002": {
+      "value": "ข้ามไปยังเนื้อหาหลัก",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-play.index.text.0003": {
+      "value": "เปิดเมนูนำทาง",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-play.index.text.0004": {
+      "value": "วัตถุ",
+      "sourceSha256": "5bc7872272afd8ba3ba1c05870da3f4fc3bbcf6dd322c5e026bf4439026e969d"
+    },
+    "inner-play.index.text.0005": {
+      "value": "การตอบสนอง",
+      "sourceSha256": "3efbad1166e24b20fc6f094c135757275e9b2d3f73bd5adfa6e91b073965d30f"
+    },
+    "inner-play.index.text.0006": {
+      "value": "สร้างมาเพื่อประสาทสัมผัสของคุณ",
+      "sourceSha256": "b84c66fcafaa7956dacc09c702469f50db7c8e70157a906b2d5f145517c33047"
+    },
+    "inner-play.index.text.0007": {
+      "value": "การวางจำหน่าย",
+      "sourceSha256": "12f67f8539c46701e62d1c50254cf025c22a992b06fea6d4c0e19705f21f4cac"
+    },
+    "inner-play.index.text.0008": {
+      "value": "แอปทั้งหมด",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-play.index.text.0009": {
+      "value": "ไอคอนชั่วคราว",
+      "sourceSha256": "274c846c048c2a41dc6b42e06566ba3382ce3fb84dfc08f99988256163239857"
+    },
+    "inner-play.index.text.0010": {
+      "value": "บางสิ่งสำหรับมือ พื้นที่สำหรับใจ",
+      "sourceSha256": "1e63725203af3e1af776567c24098ee517d7538df15927dccd0803a26894bf3e"
+    },
+    "inner-play.index.text.0011": {
+      "value": "เร็ว ๆ นี้",
+      "sourceSha256": "4f7d64017689437e6d93f5724f3f797054f3935d98a13148025b616b8db8fb2c"
+    },
+    "inner-play.index.text.0012": {
+      "value": "เปิดตู้",
+      "sourceSha256": "93e924dc46f16b46a3b770c5b266ac33843ebf22f44555fb5c3872c537251c2b"
+    },
+    "inner-play.index.text.0013": {
+      "value": "เลื่อนแล้วเอื้อมมือเข้าไป",
+      "sourceSha256": "8f336d19683904f742f433aaea302d1def507141ae130922089f08ecc347f188"
+    },
+    "inner-play.index.text.0014": {
+      "value": "เหมือนเปิดลิ้นชักที่เต็มไปด้วยของทำอย่างดีในห้องอันเงียบสงบ",
+      "sourceSha256": "5db4c5c321574b3d84417deda987ed7f1ac4c40d00873015f2ec3a04b1fedb9d"
+    },
+    "inner-play.index.text.0015": {
+      "value": "Inner Play คือตู้เล็กของวัตถุดิจิทัลที่สัมผัสได้ หมุนสิ่งที่มีน้ำหนัก ข้ามจุดเปลี่ยนของสวิตช์ หมุน เลื่อน กด ค้าง แล้วปล่อย—สัมผัสว่าวัตถุตอบอย่างซื่อตรง",
+      "sourceSha256": "802ec657bd062bb1962bfb1dae2866cc8b4c9e4069660fd974f42e21a72b383c"
+    },
+    "inner-play.index.text.0016": {
+      "value": "ไม่ใช่งาน ไม่ใช่บทเรียน ไม่ใช่คะแนนที่ต้องเพิ่ม เป็นเพียงที่ให้มือได้ไป",
+      "sourceSha256": "e41c17a93bf25b041a30e52b7e92f27883ad5f5b998d3ba0eed65cb7fc90cf68"
+    },
+    "inner-play.index.text.0017": {
+      "value": "หมุน",
+      "sourceSha256": "b9e96ae52a7b7115022a979b3151221b0e6e9ce0c219933b2d84b29a7f47ecc7"
+    },
+    "inner-play.index.text.0018": {
+      "value": "สลับ",
+      "sourceSha256": "39921a740bf2b67802a2042e1f87e9dec566131c2458aba5683e2827ced0d2c3"
+    },
+    "inner-play.index.text.0019": {
+      "value": "เลื่อน",
+      "sourceSha256": "6bb4c1177681ec4eb53bb315e71185f702e52f845cc7ff3ae114c41464f67510"
+    },
+    "inner-play.index.text.0020": {
+      "value": "กดค้าง",
+      "sourceSha256": "bbe7c64270b743d430f3157ae9aa650628c766b7d602c07f7d0a93b4a6170835"
+    },
+    "inner-play.index.text.0021": {
+      "value": "มือเชื่อหรือไม่ว่าสิ่งนี้จริง",
+      "sourceSha256": "91129933a4859b62dcef77c38ac917944522342c3de11df45f1b7eb101fc157d"
+    },
+    "inner-play.index.text.0022": {
+      "value": "ทุกการตอบสนองมาจากสถานะทางกายภาพเดียวกัน",
+      "sourceSha256": "59e5b2b1cb1b4330534905a613def7c9dc263432a8ee8ca37ec5cf590fdacf51"
+    },
+    "inner-play.index.text.0023": {
+      "value": "วัตถุรู้สึกจริงเมื่อการเคลื่อนไหว แรงต้าน เสียง แรงสั่น และสภาพที่มองเห็นสอดคล้องกัน Inner Play สร้างให้การสัมผัสก่อให้เกิดการตอบสนองจริง ไม่ใช่แอนิเมชันสำเร็จรูปที่แกล้งทำ",
+      "sourceSha256": "2a1f0e5623bc4f611b63c4849c5ec809121069bad9a276b1c03359b8db72bdad"
+    },
+    "inner-play.index.text.0024": {
+      "value": "การเคลื่อนไหวที่มีผลตามมา",
+      "sourceSha256": "6da32e3325c6ef6f21923ed4679039d9409d1d496b606b8a417edd106175d5c2"
+    },
+    "inner-play.index.text.0025": {
+      "value": "แรงเฉื่อย จุดเปลี่ยน ระยะเคลื่อน แรงเสียดทาน และการหยุดนิ่งเป็นคุณสมบัติของวัตถุ",
+      "sourceSha256": "60e30d7e519b0ea0f10db38f84d906488b243fc73c4a284de1500d98374ede66"
+    },
+    "inner-play.index.text.0026": {
+      "value": "เสียงที่เกิดจากการเคลื่อนไหว",
+      "sourceSha256": "a330a7e298bec223b07141b0a8dbf742fbeff45eafecc9a7e20d8d7db50ca5b9"
+    },
+    "inner-play.index.text.0027": {
+      "value": "ความเร็ว การสัมผัส และตำแหน่งกำหนดสิ่งที่ได้ยินและเวลาที่ได้ยิน",
+      "sourceSha256": "91977e5e27fd0e74dad65177b3752f4bb637fc431c192cece3df3192d0928925"
+    },
+    "inner-play.index.text.0028": {
+      "value": "แรงสั่นที่มีเหตุผล",
+      "sourceSha256": "75ed19fcbb43677083e26b09fe24a2b41439439ca8c637bc6cb1ff4b8e01f3ff"
+    },
+    "inner-play.index.text.0029": {
+      "value": "จุดล็อก พื้นผิว การทำงาน และการปล่อยถูกรับรู้ในช่วงเวลาที่มีความหมาย",
+      "sourceSha256": "6bc66fa456f253c1b70c69206b8951884906faa6524a6237461f006b8dcd7381"
+    },
+    "inner-play.index.text.0030": {
+      "value": "สถานะที่ยังคงจริง",
+      "sourceSha256": "b59085479459fdbf015393f7bfb7621eb72395640ca9d51362cdfd59db6bd6c8"
+    },
+    "inner-play.index.text.0031": {
+      "value": "วัตถุอยู่ในตำแหน่งที่การเล่นทิ้งไว้จนกว่าจะมีสิ่งใดขยับอีกครั้ง",
+      "sourceSha256": "caed652c4e71d16c28992db1923434d0369bbdf66e4824906ed4171a810ec831"
+    },
+    "inner-play.index.text.0032": {
+      "value": "เล่นโดยไร้แรงกดดัน",
+      "sourceSha256": "35f3fbb5f7ff4aaee2bc89bec852b1a984dd885f03201f8da32ba018c3cf8fdd"
+    },
+    "inner-play.index.text.0033": {
+      "value": "ไม่มีสถิติต่อเนื่อง ไม่มีคะแนน ไม่มีข้อเรียกร้องให้กลับมา",
+      "sourceSha256": "af4422aa4c0ee29e357ddb139ccc7eff2a3da2368f9a831c33e2a31e0b609b27"
+    },
+    "inner-play.index.text.0034": {
+      "value": "Inner Play ให้ความพึงพอใจโดยไม่ต้องส่งเสียงดัง และสนุกได้โดยไม่ทำให้เป็นเด็ก เปิดตู้ ใช้สิ่งที่รู้สึกเหมาะ แล้วจากไปได้โดยไม่มีโทษ",
+      "sourceSha256": "9c8c6c0dbbbbca94db11333aa6f9532e998e4e97c54e63c7a00d724bbb7f7afc"
+    },
+    "inner-play.index.text.0035": {
+      "value": "มอบการเล่นผ่านประสาทสัมผัสและการโต้ตอบที่ช่วยจดจ่อ โดยไม่ให้คำมั่นทางการแพทย์",
+      "sourceSha256": "efc98fff0cc4299332ffea1c98715a9b2775274b07b1eea1b76c9c48d528c266"
+    },
+    "inner-play.index.text.0036": {
+      "value": "สร้างมาเพื่อประสาทสัมผัสของคุณ",
+      "sourceSha256": "b84c66fcafaa7956dacc09c702469f50db7c8e70157a906b2d5f145517c33047"
+    },
+    "inner-play.index.text.0037": {
+      "value": "เต็มเปี่ยมเมื่อคุณต้องการ และยังสมบูรณ์เมื่อบางสิ่งถูกปิด",
+      "sourceSha256": "25501c6145841353f5fd5ea861fab762c547befed74b9d1b1c9671f76485236c"
+    },
+    "inner-play.index.text.0038": {
+      "value": "เสียงและแรงสั่นมีตัวควบคุมแยกกัน ความเงียบคือโหมดที่สมบูรณ์ Reduce Motion รักษาเหตุและผลให้เข้าใจได้ด้วยการเคลื่อนไหวต่อเนื่องที่น้อยลง VoiceOver บอกวัตถุ สถานะ และวิธีใช้งานที่มีความหมาย",
+      "sourceSha256": "69c21a287d89e67dd5e37000d6ab699eeb96b1d174d72f2758999dbc9f4cb7cd"
+    },
+    "inner-play.index.text.0039": {
+      "value": "ไม่มีสถานะใดพึ่งพาเพียงสี เสียง การเคลื่อนไหว การมองเห็น หรือแรงสั่น",
+      "sourceSha256": "9562221efccef2bf8fdd8cb78b4ab894b2822b3affd2e1f0a2f7a89c7bbddb23"
+    },
+    "inner-play.index.text.0040": {
+      "value": "วัตถุหลักทุกชิ้นยังใช้งานได้เมื่อปิดเสียงหรือแรงสั่น",
+      "sourceSha256": "0d07f68208ee3cfadb3af7947e50e9ed9022e474619d2f3c2a08d7debd5cdad6"
+    },
+    "inner-play.index.text.0041": {
+      "value": "พื้นที่สัมผัสและการกระทำทางเลือกเป็นส่วนหนึ่งของวัตถุตั้งแต่เริ่มต้น",
+      "sourceSha256": "f2b2e15bb80e768b0d1419a6507a3334df7d3dab55b6be4187ff4b88c6fdd710"
+    },
+    "inner-play.index.text.0042": {
+      "value": "การเข้าถึงเป็นส่วนหนึ่งของการตัดสินว่าวัตถุคืออะไร ไม่ใช่สิ่งที่เพิ่มทีหลัง",
+      "sourceSha256": "5021611c5274d93e515fe5a076820e75a5c10aaa88259d4e51e72c6f4b313ba1"
+    },
+    "inner-play.index.text.0043": {
+      "value": "เจตนาสำหรับ Inner Play",
+      "sourceSha256": "da542a347a2759ed5ad41e1903cdd29bca09bc7d319777c66c4c91412225a572"
+    },
+    "inner-play.index.text.0044": {
+      "value": "ขอให้ทุกวัตถุตอบมืออย่างซื่อตรง",
+      "sourceSha256": "87c5c9d59571afb3f52c0400fd8f5bade067e726879782ad1d4e37feccef2d9e"
+    },
+    "inner-play.index.text.0045": {
+      "value": "ขอให้การเคลื่อนไหวเปิดพื้นที่โดยไม่เรียกร้อง",
+      "sourceSha256": "bf3b641d21f364286855dc1a6b74b998eb7a6acc787b187848e9f9cb40fef867"
+    },
+    "inner-play.index.text.0046": {
+      "value": "ขอให้การเล่นยังคงเรียบง่าย มีศักดิ์ศรี และเป็นอิสระ",
+      "sourceSha256": "e1e64fd70eab75c05ac77e2e1c88af6411ccd8e4f635f4a2fb3d131e80489b93"
+    },
+    "inner-play.index.text.0047": {
+      "value": "โดย Moving Truth",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    "inner-play.index.text.0048": {
+      "value": "สร้างด้วยความรักโดย Skylaur Roe",
+      "sourceSha256": "8973d1d4a4d34a688cb6e6d9080ec19b076e65b44fac74776e850e1cfb0f6562"
+    },
+    "inner-play.index.text.0049": {
+      "value": "สำรวจแอป Moving Truth ทั้งหมด",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    "inner-play.index.text.0050": {
+      "value": "เร็ว ๆ นี้",
+      "sourceSha256": "4f7d64017689437e6d93f5724f3f797054f3935d98a13148025b616b8db8fb2c"
+    },
+    "inner-play.index.text.0051": {
+      "value": "วัตถุชิ้นแรกกำลังก่อร่าง",
+      "sourceSha256": "37b2cb01e904685f7ea374320b186c906d118020c1a0899bff57b234a09e232a"
+    },
+    "inner-play.index.text.0052": {
+      "value": "Inner Play กำลังสร้างแบบเนทีฟสำหรับ iPhone หลักฐานแรกเริ่มจากวงล้อหนึ่งชิ้นที่น่าเชื่อและสวิตช์ทางกายภาพหนึ่งตัว ก่อนที่ตู้จะเติบโต",
+      "sourceSha256": "3c4caa23850544e807e6efbeb7d1c6c7d72702f69e407cbb42debfa0816c3c0f"
+    },
+    "inner-play.index.text.0053": {
+      "value": "สอบถามเกี่ยวกับ Inner Play",
+      "sourceSha256": "699e474a0dbf07560a472f30bc8cbfad9e5ba97ae4af089359b441a8984df6f7"
+    },
+    "inner-play.index.text.0054": {
+      "value": "วัตถุ",
+      "sourceSha256": "5bc7872272afd8ba3ba1c05870da3f4fc3bbcf6dd322c5e026bf4439026e969d"
+    },
+    "inner-play.index.text.0055": {
+      "value": "การตอบสนอง",
+      "sourceSha256": "3efbad1166e24b20fc6f094c135757275e9b2d3f73bd5adfa6e91b073965d30f"
+    },
+    "inner-play.index.text.0056": {
+      "value": "การเข้าถึง",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-play.index.text.0057": {
+      "value": "ฝ่ายช่วยเหลือ",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-play.index.text.0058": {
+      "value": "แอปทั้งหมด",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-play.index.text.0059": {
+      "value": "© 2026 Inner Play โดย Moving Truth. เร็ว ๆ นี้บน iPhone",
+      "sourceSha256": "d8c16a6c664154c3d3f2b63df3c91803c20ad82dcd1e810b4e944990bde98de8"
+    },
+    "inner-play.index.attribute.0001": {
+      "value": "Inner Play คือตู้เล็กอันสงบของวัตถุดิจิทัลที่สัมผัสได้: การเคลื่อนไหว เสียง และแรงสั่นที่น่าเชื่อสำหรับมือที่อยากเคลื่อนไหว เร็ว ๆ นี้บน iPhone",
+      "sourceSha256": "8510a61e71d758658156ff4b03f6b36de21e7b66c9649e4d3450e4d86b4929cd"
+    },
+    "inner-play.index.attribute.0002": {
+      "value": "Inner Play — โดย Moving Truth",
+      "sourceSha256": "750f36853c2aaba671cd7c185ac3aec635c5873767599e3cd18f24036189ca2a"
+    },
+    "inner-play.index.attribute.0003": {
+      "value": "บางสิ่งสำหรับมือ พื้นที่สำหรับใจ",
+      "sourceSha256": "1e63725203af3e1af776567c24098ee517d7538df15927dccd0803a26894bf3e"
+    },
+    "inner-play.index.attribute.0004": {
+      "value": "หน้าหลัก Inner Play",
+      "sourceSha256": "7e2c69f88dc285d42b5b61be90781c4c08e8f9108163349afd11103f2d3e8324"
+    },
+    "inner-play.index.attribute.0005": {
+      "value": "เมนูนำทางหลัก",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-play.index.attribute.0006": {
+      "value": "ไอคอน Inner Play ชั่วคราว: แป้นหมุนโลหะสีเข้มที่เรืองแสงอุ่นจากภายใน",
+      "sourceSha256": "7af4595e2653269f09315f9d598afa3a7a2ef9a1a804c1724f64e6399964e75e"
+    },
+    "inner-play.index.attribute.0007": {
+      "value": "เร็ว ๆ นี้บน iPhone",
+      "sourceSha256": "4f94b16d081a4fcdffecf1eb355a8fddac4bcf388b396e40fd9c80d7e029aec9"
+    },
+    "inner-play.index.attribute.0008": {
+      "value": "วิธีเล่นกับ Inner Play",
+      "sourceSha256": "0ce1c8b240b8ab86247ef205cef4d441636a3e2622ef044473375e8c489298c7"
+    },
+    "inner-play.index.attribute.0009": {
+      "value": "เกี่ยวกับ Moving Truth",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    "inner-play.index.attribute.0010": {
+      "value": "Moving Truth เปิด movingtruth.com",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    "inner-play.index.attribute.0011": {
+      "value": "โลโก้ Moving Truth",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    "inner-play.index.attribute.0012": {
+      "value": "เมนูนำทางส่วนท้าย",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-play.index.script.0001": {
+      "value": "เปิดเมนูนำทาง",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-play.site-js.script.0001": {
+      "value": "ปิดเมนูนำทาง",
+      "sourceSha256": "99904db30de4a2a32ee6672a99e77e79c482d4e188860695723d3dd306749879"
+    },
+    "inner-play.site-js.script.0002": {
+      "value": "เปิดเมนูนำทาง",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    }
   }
 }

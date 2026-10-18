@@ -1,72 +1,301 @@
 {
-  "translations": {
-    "Inner Play is a quiet cabinet of tactile digital objects: believable motion, sound, and haptics for busy hands. Coming soon to iPhone.": "Inner Play는 촉감 있는 디지털 물건을 담은 조용한 장입니다. 바쁜 손에 믿을 수 있는 움직임, 소리, 촉각을 제공합니다. iPhone용 곧 출시.",
-    "Inner Play — by Moving Truth": "Inner Play — Moving Truth 제공",
-    "Skip to main content": "주요 콘텐츠로 건너뛰기",
-    "Inner Play home": "Inner Play 홈",
-    "Open navigation": "탐색 열기",
-    "Main navigation": "주 탐색",
-    "The objects": "물건",
-    "How they respond": "반응하는 방식",
-    "Made for your senses": "감각을 위해",
-    "Availability": "출시 정보",
-    "All apps": "모든 앱",
-    "Provisional icon": "임시 아이콘",
-    "Provisional Inner Play icon: a dark metal kinetic dial glowing warmly from within": "Inner Play 임시 아이콘: 안에서 따뜻하게 빛나는 어두운 금속 회전 다이얼",
-    "Something for your hands. Space for your mind.": "손을 위한 무언가. 마음을 위한 여백.",
-    "Coming soon to iPhone": "iPhone용 곧 출시",
-    "Coming soon": "곧 출시",
-    "Open the cabinet": "장 열기",
-    "scroll to reach in": "스크롤하여 손 뻗기",
-    "Like opening a drawer of well-made objects in a quiet room.": "조용한 방에서 잘 만든 물건이 든 서랍을 여는 것처럼.",
-    "Inner Play is a small cabinet of tactile digital objects. Spin something with weight. Cross the threshold of a switch. Turn, slide, press, hold, and release—and feel the object answer honestly.": "Inner Play는 촉감 있는 디지털 물건을 담은 작은 장입니다. 무게감 있는 것을 돌리고, 스위치의 경계를 넘으세요. 돌리고, 밀고, 누르고, 길게 누르고, 놓으며 물건의 정직한 응답을 느껴 보세요.",
-    "Not a task. Not a lesson. Not a score to improve. Somewhere for the hand to go.": "과제도 수업도 높여야 할 점수도 아닙니다. 손이 향할 곳입니다.",
-    "Ways to interact with Inner Play": "Inner Play와 상호작용하는 방법",
-    "Spin": "돌리기",
-    "Switch": "전환하기",
-    "Slide": "밀기",
-    "Press & hold": "길게 누르기",
-    "Does the hand believe it?": "손이 진짜라고 믿는가?",
-    "Every response comes from the same physical state.": "모든 반응은 같은 물리 상태에서 나옵니다.",
-    "An object feels real when its movement, resistance, sound, haptics, and visible state agree. Inner Play is being built so touch creates the response—not a canned animation pretending that it did.": "움직임, 저항, 소리, 촉각, 보이는 상태가 일치할 때 물건은 진짜처럼 느껴집니다. Inner Play는 미리 만든 애니메이션이 반응한 척하지 않고, 실제 터치가 반응을 만들도록 설계합니다.",
-    "Movement with consequence": "결과가 있는 움직임",
-    "Momentum, thresholds, travel, friction, and rest belong to the object.": "관성, 경계, 이동 거리, 마찰, 정지는 물건 자체의 성질입니다.",
-    "Sound made by motion": "움직임이 만드는 소리",
-    "Speed, contact, and position shape what you hear and when you hear it.": "속도, 접촉, 위치가 무엇을 언제 듣는지 결정합니다.",
-    "Haptics with a reason": "이유 있는 촉각",
-    "Detents, texture, actuation, and release are felt at meaningful moments.": "걸림, 질감, 작동, 해제는 의미 있는 순간에 느껴집니다.",
-    "State that stays true": "진실하게 유지되는 상태",
-    "The object remains where the interaction left it until something moves again.": "다시 움직이기 전까지 물건은 상호작용이 남긴 자리에 머뭅니다.",
-    "Play without pressure": "압박 없는 놀이",
-    "No streaks. No scores. No demand to return.": "연속 기록도 점수도 돌아오라는 요구도 없습니다.",
-    "Inner Play can be satisfying without becoming loud, and playful without becoming childish. Open the cabinet, use what feels right, and leave without penalty.": "Inner Play는 시끄럽지 않아도 만족스럽고, 유치하지 않아도 장난스러울 수 있습니다. 장을 열고 맞는 것을 사용한 뒤 아무 불이익 없이 떠나세요.",
-    "It offers sensory play and focus-friendly interaction without making medical promises.": "의학적 약속 없이 감각 놀이와 집중하기 좋은 상호작용을 제공합니다.",
-    "Rich when you want it. Complete when something is off.": "원할 때 풍부하게. 무언가 꺼져 있어도 온전하게.",
-    "Sound and haptics will have independent controls. Silence is a complete mode. Reduce Motion preserves understandable cause and effect with less continuous movement. VoiceOver exposes the object, its state, and meaningful ways to act on it.": "소리와 촉각은 따로 조절합니다. 무음도 완전한 모드입니다. Reduce Motion은 지속 움직임을 줄이면서 이해하기 쉬운 원인과 결과를 유지합니다. VoiceOver는 물건, 상태, 의미 있는 동작을 알려 줍니다.",
-    "No state depends only on color, sound, motion, sight, or haptic feedback.": "어떤 상태도 색, 소리, 움직임, 시각, 촉각 피드백 하나에만 의존하지 않습니다.",
-    "Every primary object remains usable with sound or haptics disabled.": "모든 주요 물건은 소리나 촉각을 꺼도 사용할 수 있습니다.",
-    "Touch targets and alternative actions are part of the object from the beginning.": "터치 영역과 대체 동작은 처음부터 물건의 일부입니다.",
-    "Accessibility is part of deciding what the object is—not something added around it.": "접근성은 물건이 무엇인지 결정하는 일부이며, 나중에 둘러붙이는 것이 아닙니다.",
-    "An intention for Inner Play": "Inner Play를 위한 뜻",
-    "May every object answer the hand honestly.": "모든 물건이 손에 정직하게 답하기를.",
-    "May movement make room without making demands.": "움직임이 아무 요구 없이 여백을 만들기를.",
-    "May play remain simple, dignified, and free.": "놀이가 단순하고 존엄하며 자유롭기를.",
-    "About Moving Truth": "Moving Truth 소개",
-    "Moving Truth. Opens movingtruth.com": "Moving Truth. movingtruth.com 열기",
-    "Moving Truth logo": "Moving Truth 로고",
-    "by Moving Truth": "Moving Truth 제공",
-    "Made with love by Skylaur Roe": "Skylaur Roe가 사랑을 담아 만듦",
-    "Explore all Moving Truth apps": "모든 Moving Truth 앱 살펴보기",
-    "The first objects are taking shape.": "첫 물건들이 모습을 갖춰 가고 있습니다.",
-    "Inner Play is being built natively for iPhone. Its first proof begins with one believable spinner and one physical switch before the cabinet grows.": "Inner Play는 iPhone용 네이티브 앱으로 개발 중입니다. 장을 넓히기 전에 믿을 수 있는 스피너 하나와 물리적 스위치 하나에서 첫 증명을 시작합니다.",
-    "Ask about Inner Play": "Inner Play에 관해 문의하기",
-    "Footer navigation": "바닥글 탐색",
-    "Accessibility": "접근성",
-    "Support": "지원",
-    "© 2026 Inner Play by Moving Truth. Coming to iPhone.": "© 2026 Inner Play by Moving Truth. iPhone용 곧 출시."
-  },
-  "scriptTranslations": {
-    "Close navigation": "탐색 닫기",
-    "Open navigation": "탐색 열기"
+  "schema": "release-fabric/catalog@2",
+  "messages": {
+    "inner-play.index.text.0001": {
+      "value": "Inner Play — Moving Truth 제공",
+      "sourceSha256": "750f36853c2aaba671cd7c185ac3aec635c5873767599e3cd18f24036189ca2a"
+    },
+    "inner-play.index.text.0002": {
+      "value": "주요 콘텐츠로 건너뛰기",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-play.index.text.0003": {
+      "value": "탐색 열기",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-play.index.text.0004": {
+      "value": "물건",
+      "sourceSha256": "5bc7872272afd8ba3ba1c05870da3f4fc3bbcf6dd322c5e026bf4439026e969d"
+    },
+    "inner-play.index.text.0005": {
+      "value": "반응하는 방식",
+      "sourceSha256": "3efbad1166e24b20fc6f094c135757275e9b2d3f73bd5adfa6e91b073965d30f"
+    },
+    "inner-play.index.text.0006": {
+      "value": "감각을 위해",
+      "sourceSha256": "b84c66fcafaa7956dacc09c702469f50db7c8e70157a906b2d5f145517c33047"
+    },
+    "inner-play.index.text.0007": {
+      "value": "출시 정보",
+      "sourceSha256": "12f67f8539c46701e62d1c50254cf025c22a992b06fea6d4c0e19705f21f4cac"
+    },
+    "inner-play.index.text.0008": {
+      "value": "모든 앱",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-play.index.text.0009": {
+      "value": "임시 아이콘",
+      "sourceSha256": "274c846c048c2a41dc6b42e06566ba3382ce3fb84dfc08f99988256163239857"
+    },
+    "inner-play.index.text.0010": {
+      "value": "손을 위한 무언가. 마음을 위한 여백.",
+      "sourceSha256": "1e63725203af3e1af776567c24098ee517d7538df15927dccd0803a26894bf3e"
+    },
+    "inner-play.index.text.0011": {
+      "value": "곧 출시",
+      "sourceSha256": "4f7d64017689437e6d93f5724f3f797054f3935d98a13148025b616b8db8fb2c"
+    },
+    "inner-play.index.text.0012": {
+      "value": "장 열기",
+      "sourceSha256": "93e924dc46f16b46a3b770c5b266ac33843ebf22f44555fb5c3872c537251c2b"
+    },
+    "inner-play.index.text.0013": {
+      "value": "스크롤하여 손 뻗기",
+      "sourceSha256": "8f336d19683904f742f433aaea302d1def507141ae130922089f08ecc347f188"
+    },
+    "inner-play.index.text.0014": {
+      "value": "조용한 방에서 잘 만든 물건이 든 서랍을 여는 것처럼.",
+      "sourceSha256": "5db4c5c321574b3d84417deda987ed7f1ac4c40d00873015f2ec3a04b1fedb9d"
+    },
+    "inner-play.index.text.0015": {
+      "value": "Inner Play는 촉감 있는 디지털 물건을 담은 작은 장입니다. 무게감 있는 것을 돌리고, 스위치의 경계를 넘으세요. 돌리고, 밀고, 누르고, 길게 누르고, 놓으며 물건의 정직한 응답을 느껴 보세요.",
+      "sourceSha256": "802ec657bd062bb1962bfb1dae2866cc8b4c9e4069660fd974f42e21a72b383c"
+    },
+    "inner-play.index.text.0016": {
+      "value": "과제도 수업도 높여야 할 점수도 아닙니다. 손이 향할 곳입니다.",
+      "sourceSha256": "e41c17a93bf25b041a30e52b7e92f27883ad5f5b998d3ba0eed65cb7fc90cf68"
+    },
+    "inner-play.index.text.0017": {
+      "value": "돌리기",
+      "sourceSha256": "b9e96ae52a7b7115022a979b3151221b0e6e9ce0c219933b2d84b29a7f47ecc7"
+    },
+    "inner-play.index.text.0018": {
+      "value": "전환하기",
+      "sourceSha256": "39921a740bf2b67802a2042e1f87e9dec566131c2458aba5683e2827ced0d2c3"
+    },
+    "inner-play.index.text.0019": {
+      "value": "밀기",
+      "sourceSha256": "6bb4c1177681ec4eb53bb315e71185f702e52f845cc7ff3ae114c41464f67510"
+    },
+    "inner-play.index.text.0020": {
+      "value": "길게 누르기",
+      "sourceSha256": "bbe7c64270b743d430f3157ae9aa650628c766b7d602c07f7d0a93b4a6170835"
+    },
+    "inner-play.index.text.0021": {
+      "value": "손이 진짜라고 믿는가?",
+      "sourceSha256": "91129933a4859b62dcef77c38ac917944522342c3de11df45f1b7eb101fc157d"
+    },
+    "inner-play.index.text.0022": {
+      "value": "모든 반응은 같은 물리 상태에서 나옵니다.",
+      "sourceSha256": "59e5b2b1cb1b4330534905a613def7c9dc263432a8ee8ca37ec5cf590fdacf51"
+    },
+    "inner-play.index.text.0023": {
+      "value": "움직임, 저항, 소리, 촉각, 보이는 상태가 일치할 때 물건은 진짜처럼 느껴집니다. Inner Play는 미리 만든 애니메이션이 반응한 척하지 않고, 실제 터치가 반응을 만들도록 설계합니다.",
+      "sourceSha256": "2a1f0e5623bc4f611b63c4849c5ec809121069bad9a276b1c03359b8db72bdad"
+    },
+    "inner-play.index.text.0024": {
+      "value": "결과가 있는 움직임",
+      "sourceSha256": "6da32e3325c6ef6f21923ed4679039d9409d1d496b606b8a417edd106175d5c2"
+    },
+    "inner-play.index.text.0025": {
+      "value": "관성, 경계, 이동 거리, 마찰, 정지는 물건 자체의 성질입니다.",
+      "sourceSha256": "60e30d7e519b0ea0f10db38f84d906488b243fc73c4a284de1500d98374ede66"
+    },
+    "inner-play.index.text.0026": {
+      "value": "움직임이 만드는 소리",
+      "sourceSha256": "a330a7e298bec223b07141b0a8dbf742fbeff45eafecc9a7e20d8d7db50ca5b9"
+    },
+    "inner-play.index.text.0027": {
+      "value": "속도, 접촉, 위치가 무엇을 언제 듣는지 결정합니다.",
+      "sourceSha256": "91977e5e27fd0e74dad65177b3752f4bb637fc431c192cece3df3192d0928925"
+    },
+    "inner-play.index.text.0028": {
+      "value": "이유 있는 촉각",
+      "sourceSha256": "75ed19fcbb43677083e26b09fe24a2b41439439ca8c637bc6cb1ff4b8e01f3ff"
+    },
+    "inner-play.index.text.0029": {
+      "value": "걸림, 질감, 작동, 해제는 의미 있는 순간에 느껴집니다.",
+      "sourceSha256": "6bc66fa456f253c1b70c69206b8951884906faa6524a6237461f006b8dcd7381"
+    },
+    "inner-play.index.text.0030": {
+      "value": "진실하게 유지되는 상태",
+      "sourceSha256": "b59085479459fdbf015393f7bfb7621eb72395640ca9d51362cdfd59db6bd6c8"
+    },
+    "inner-play.index.text.0031": {
+      "value": "다시 움직이기 전까지 물건은 상호작용이 남긴 자리에 머뭅니다.",
+      "sourceSha256": "caed652c4e71d16c28992db1923434d0369bbdf66e4824906ed4171a810ec831"
+    },
+    "inner-play.index.text.0032": {
+      "value": "압박 없는 놀이",
+      "sourceSha256": "35f3fbb5f7ff4aaee2bc89bec852b1a984dd885f03201f8da32ba018c3cf8fdd"
+    },
+    "inner-play.index.text.0033": {
+      "value": "연속 기록도 점수도 돌아오라는 요구도 없습니다.",
+      "sourceSha256": "af4422aa4c0ee29e357ddb139ccc7eff2a3da2368f9a831c33e2a31e0b609b27"
+    },
+    "inner-play.index.text.0034": {
+      "value": "Inner Play는 시끄럽지 않아도 만족스럽고, 유치하지 않아도 장난스러울 수 있습니다. 장을 열고 맞는 것을 사용한 뒤 아무 불이익 없이 떠나세요.",
+      "sourceSha256": "9c8c6c0dbbbbca94db11333aa6f9532e998e4e97c54e63c7a00d724bbb7f7afc"
+    },
+    "inner-play.index.text.0035": {
+      "value": "의학적 약속 없이 감각 놀이와 집중하기 좋은 상호작용을 제공합니다.",
+      "sourceSha256": "efc98fff0cc4299332ffea1c98715a9b2775274b07b1eea1b76c9c48d528c266"
+    },
+    "inner-play.index.text.0036": {
+      "value": "감각을 위해",
+      "sourceSha256": "b84c66fcafaa7956dacc09c702469f50db7c8e70157a906b2d5f145517c33047"
+    },
+    "inner-play.index.text.0037": {
+      "value": "원할 때 풍부하게. 무언가 꺼져 있어도 온전하게.",
+      "sourceSha256": "25501c6145841353f5fd5ea861fab762c547befed74b9d1b1c9671f76485236c"
+    },
+    "inner-play.index.text.0038": {
+      "value": "소리와 촉각은 따로 조절합니다. 무음도 완전한 모드입니다. Reduce Motion은 지속 움직임을 줄이면서 이해하기 쉬운 원인과 결과를 유지합니다. VoiceOver는 물건, 상태, 의미 있는 동작을 알려 줍니다.",
+      "sourceSha256": "69c21a287d89e67dd5e37000d6ab699eeb96b1d174d72f2758999dbc9f4cb7cd"
+    },
+    "inner-play.index.text.0039": {
+      "value": "어떤 상태도 색, 소리, 움직임, 시각, 촉각 피드백 하나에만 의존하지 않습니다.",
+      "sourceSha256": "9562221efccef2bf8fdd8cb78b4ab894b2822b3affd2e1f0a2f7a89c7bbddb23"
+    },
+    "inner-play.index.text.0040": {
+      "value": "모든 주요 물건은 소리나 촉각을 꺼도 사용할 수 있습니다.",
+      "sourceSha256": "0d07f68208ee3cfadb3af7947e50e9ed9022e474619d2f3c2a08d7debd5cdad6"
+    },
+    "inner-play.index.text.0041": {
+      "value": "터치 영역과 대체 동작은 처음부터 물건의 일부입니다.",
+      "sourceSha256": "f2b2e15bb80e768b0d1419a6507a3334df7d3dab55b6be4187ff4b88c6fdd710"
+    },
+    "inner-play.index.text.0042": {
+      "value": "접근성은 물건이 무엇인지 결정하는 일부이며, 나중에 둘러붙이는 것이 아닙니다.",
+      "sourceSha256": "5021611c5274d93e515fe5a076820e75a5c10aaa88259d4e51e72c6f4b313ba1"
+    },
+    "inner-play.index.text.0043": {
+      "value": "Inner Play를 위한 뜻",
+      "sourceSha256": "da542a347a2759ed5ad41e1903cdd29bca09bc7d319777c66c4c91412225a572"
+    },
+    "inner-play.index.text.0044": {
+      "value": "모든 물건이 손에 정직하게 답하기를.",
+      "sourceSha256": "87c5c9d59571afb3f52c0400fd8f5bade067e726879782ad1d4e37feccef2d9e"
+    },
+    "inner-play.index.text.0045": {
+      "value": "움직임이 아무 요구 없이 여백을 만들기를.",
+      "sourceSha256": "bf3b641d21f364286855dc1a6b74b998eb7a6acc787b187848e9f9cb40fef867"
+    },
+    "inner-play.index.text.0046": {
+      "value": "놀이가 단순하고 존엄하며 자유롭기를.",
+      "sourceSha256": "e1e64fd70eab75c05ac77e2e1c88af6411ccd8e4f635f4a2fb3d131e80489b93"
+    },
+    "inner-play.index.text.0047": {
+      "value": "Moving Truth 제공",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    "inner-play.index.text.0048": {
+      "value": "Skylaur Roe가 사랑을 담아 만듦",
+      "sourceSha256": "8973d1d4a4d34a688cb6e6d9080ec19b076e65b44fac74776e850e1cfb0f6562"
+    },
+    "inner-play.index.text.0049": {
+      "value": "모든 Moving Truth 앱 살펴보기",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    "inner-play.index.text.0050": {
+      "value": "곧 출시",
+      "sourceSha256": "4f7d64017689437e6d93f5724f3f797054f3935d98a13148025b616b8db8fb2c"
+    },
+    "inner-play.index.text.0051": {
+      "value": "첫 물건들이 모습을 갖춰 가고 있습니다.",
+      "sourceSha256": "37b2cb01e904685f7ea374320b186c906d118020c1a0899bff57b234a09e232a"
+    },
+    "inner-play.index.text.0052": {
+      "value": "Inner Play는 iPhone용 네이티브 앱으로 개발 중입니다. 장을 넓히기 전에 믿을 수 있는 스피너 하나와 물리적 스위치 하나에서 첫 증명을 시작합니다.",
+      "sourceSha256": "3c4caa23850544e807e6efbeb7d1c6c7d72702f69e407cbb42debfa0816c3c0f"
+    },
+    "inner-play.index.text.0053": {
+      "value": "Inner Play에 관해 문의하기",
+      "sourceSha256": "699e474a0dbf07560a472f30bc8cbfad9e5ba97ae4af089359b441a8984df6f7"
+    },
+    "inner-play.index.text.0054": {
+      "value": "물건",
+      "sourceSha256": "5bc7872272afd8ba3ba1c05870da3f4fc3bbcf6dd322c5e026bf4439026e969d"
+    },
+    "inner-play.index.text.0055": {
+      "value": "반응하는 방식",
+      "sourceSha256": "3efbad1166e24b20fc6f094c135757275e9b2d3f73bd5adfa6e91b073965d30f"
+    },
+    "inner-play.index.text.0056": {
+      "value": "접근성",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-play.index.text.0057": {
+      "value": "지원",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-play.index.text.0058": {
+      "value": "모든 앱",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-play.index.text.0059": {
+      "value": "© 2026 Inner Play by Moving Truth. iPhone용 곧 출시.",
+      "sourceSha256": "d8c16a6c664154c3d3f2b63df3c91803c20ad82dcd1e810b4e944990bde98de8"
+    },
+    "inner-play.index.attribute.0001": {
+      "value": "Inner Play는 촉감 있는 디지털 물건을 담은 조용한 장입니다. 바쁜 손에 믿을 수 있는 움직임, 소리, 촉각을 제공합니다. iPhone용 곧 출시.",
+      "sourceSha256": "8510a61e71d758658156ff4b03f6b36de21e7b66c9649e4d3450e4d86b4929cd"
+    },
+    "inner-play.index.attribute.0002": {
+      "value": "Inner Play — Moving Truth 제공",
+      "sourceSha256": "750f36853c2aaba671cd7c185ac3aec635c5873767599e3cd18f24036189ca2a"
+    },
+    "inner-play.index.attribute.0003": {
+      "value": "손을 위한 무언가. 마음을 위한 여백.",
+      "sourceSha256": "1e63725203af3e1af776567c24098ee517d7538df15927dccd0803a26894bf3e"
+    },
+    "inner-play.index.attribute.0004": {
+      "value": "Inner Play 홈",
+      "sourceSha256": "7e2c69f88dc285d42b5b61be90781c4c08e8f9108163349afd11103f2d3e8324"
+    },
+    "inner-play.index.attribute.0005": {
+      "value": "주 탐색",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-play.index.attribute.0006": {
+      "value": "Inner Play 임시 아이콘: 안에서 따뜻하게 빛나는 어두운 금속 회전 다이얼",
+      "sourceSha256": "7af4595e2653269f09315f9d598afa3a7a2ef9a1a804c1724f64e6399964e75e"
+    },
+    "inner-play.index.attribute.0007": {
+      "value": "iPhone용 곧 출시",
+      "sourceSha256": "4f94b16d081a4fcdffecf1eb355a8fddac4bcf388b396e40fd9c80d7e029aec9"
+    },
+    "inner-play.index.attribute.0008": {
+      "value": "Inner Play와 상호작용하는 방법",
+      "sourceSha256": "0ce1c8b240b8ab86247ef205cef4d441636a3e2622ef044473375e8c489298c7"
+    },
+    "inner-play.index.attribute.0009": {
+      "value": "Moving Truth 소개",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    "inner-play.index.attribute.0010": {
+      "value": "Moving Truth. movingtruth.com 열기",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    "inner-play.index.attribute.0011": {
+      "value": "Moving Truth 로고",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    "inner-play.index.attribute.0012": {
+      "value": "바닥글 탐색",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-play.index.script.0001": {
+      "value": "탐색 열기",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-play.site-js.script.0001": {
+      "value": "탐색 닫기",
+      "sourceSha256": "99904db30de4a2a32ee6672a99e77e79c482d4e188860695723d3dd306749879"
+    },
+    "inner-play.site-js.script.0002": {
+      "value": "탐색 열기",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    }
   }
 }

@@ -1,72 +1,301 @@
 {
-  "translations": {
-    "Inner Play is a quiet cabinet of tactile digital objects: believable motion, sound, and haptics for busy hands. Coming soon to iPhone.": "Inner Play est un cabinet paisible d’objets numériques tactiles : mouvements, sons et sensations crédibles pour les mains qui ont besoin de bouger. Bientôt sur iPhone.",
-    "Inner Play — by Moving Truth": "Inner Play — par Moving Truth",
-    "Skip to main content": "Aller au contenu principal",
-    "Inner Play home": "Accueil d’Inner Play",
-    "Open navigation": "Ouvrir la navigation",
-    "Main navigation": "Navigation principale",
-    "The objects": "Les objets",
-    "How they respond": "Leur réponse",
-    "Made for your senses": "Pensé pour vos sens",
-    "Availability": "Disponibilité",
-    "All apps": "Toutes les apps",
-    "Provisional icon": "Icône provisoire",
-    "Provisional Inner Play icon: a dark metal kinetic dial glowing warmly from within": "Icône provisoire d’Inner Play : un cadran cinétique en métal sombre, éclairé d’une lueur chaude intérieure",
-    "Something for your hands. Space for your mind.": "Quelque chose pour vos mains. De l’espace pour votre esprit.",
-    "Coming soon to iPhone": "Bientôt sur iPhone",
-    "Coming soon": "Bientôt disponible",
-    "Open the cabinet": "Ouvrir le cabinet",
-    "scroll to reach in": "faites défiler pour tendre la main",
-    "Like opening a drawer of well-made objects in a quiet room.": "Comme ouvrir, dans une pièce calme, un tiroir rempli d’objets bien façonnés.",
-    "Inner Play is a small cabinet of tactile digital objects. Spin something with weight. Cross the threshold of a switch. Turn, slide, press, hold, and release—and feel the object answer honestly.": "Inner Play est un petit cabinet d’objets numériques tactiles. Faites tourner quelque chose qui semble avoir du poids. Franchissez le seuil d’un interrupteur. Tournez, glissez, appuyez, maintenez, relâchez — et sentez l’objet répondre avec justesse.",
-    "Not a task. Not a lesson. Not a score to improve. Somewhere for the hand to go.": "Ni tâche. Ni leçon. Ni score à améliorer. Simplement un endroit où poser les mains.",
-    "Ways to interact with Inner Play": "Façons d’interagir avec Inner Play",
-    "Spin": "Tourner",
-    "Switch": "Basculer",
-    "Slide": "Faire glisser",
-    "Press & hold": "Appuyer et maintenir",
-    "Does the hand believe it?": "La main y croit-elle ?",
-    "Every response comes from the same physical state.": "Chaque réponse vient du même état physique.",
-    "An object feels real when its movement, resistance, sound, haptics, and visible state agree. Inner Play is being built so touch creates the response—not a canned animation pretending that it did.": "Un objet paraît réel lorsque son mouvement, sa résistance, son son, ses sensations et son état visible racontent la même chose. Inner Play est construit pour que le toucher crée la réponse — pas pour qu’une animation préfabriquée fasse semblant.",
-    "Movement with consequence": "Un mouvement qui a des conséquences",
-    "Momentum, thresholds, travel, friction, and rest belong to the object.": "Élan, seuils, course, friction et repos appartiennent à l’objet.",
-    "Sound made by motion": "Un son né du mouvement",
-    "Speed, contact, and position shape what you hear and when you hear it.": "La vitesse, le contact et la position façonnent ce que vous entendez, et quand vous l’entendez.",
-    "Haptics with a reason": "Des sensations qui ont une raison",
-    "Detents, texture, actuation, and release are felt at meaningful moments.": "Crans, texture, activation et relâchement se font sentir aux moments qui comptent.",
-    "State that stays true": "Un état qui reste fidèle",
-    "The object remains where the interaction left it until something moves again.": "L’objet reste là où l’interaction l’a laissé jusqu’à ce que quelque chose le remette en mouvement.",
-    "Play without pressure": "Jouer sans pression",
-    "No streaks. No scores. No demand to return.": "Pas de série. Pas de score. Aucune obligation de revenir.",
-    "Inner Play can be satisfying without becoming loud, and playful without becoming childish. Open the cabinet, use what feels right, and leave without penalty.": "Inner Play peut être satisfaisant sans devenir bruyant, et ludique sans être infantilisant. Ouvrez le cabinet, utilisez ce qui vous convient, puis partez sans pénalité.",
-    "It offers sensory play and focus-friendly interaction without making medical promises.": "L’app propose un jeu sensoriel et des interactions propices à l’attention, sans promesse médicale.",
-    "Rich when you want it. Complete when something is off.": "Riche lorsque vous le souhaitez. Entier même lorsqu’un sens est désactivé.",
-    "Sound and haptics will have independent controls. Silence is a complete mode. Reduce Motion preserves understandable cause and effect with less continuous movement. VoiceOver exposes the object, its state, and meaningful ways to act on it.": "Le son et les sensations auront des commandes indépendantes. Le silence est un mode complet. Réduire les animations préservera une relation claire entre cause et effet avec moins de mouvement continu. VoiceOver présentera l’objet, son état et les gestes utiles pour agir sur lui.",
-    "No state depends only on color, sound, motion, sight, or haptic feedback.": "Aucun état ne dépend uniquement de la couleur, du son, du mouvement, de la vue ou du retour haptique.",
-    "Every primary object remains usable with sound or haptics disabled.": "Chaque objet principal reste utilisable lorsque le son ou les sensations sont désactivés.",
-    "Touch targets and alternative actions are part of the object from the beginning.": "Les zones tactiles et les actions de remplacement font partie de l’objet dès le départ.",
-    "Accessibility is part of deciding what the object is—not something added around it.": "L’accessibilité participe à définir ce qu’est l’objet — elle n’est pas ajoutée autour de lui après coup.",
-    "An intention for Inner Play": "Une intention pour Inner Play",
-    "May every object answer the hand honestly.": "Que chaque objet réponde avec justesse à la main.",
-    "May movement make room without making demands.": "Que le mouvement ouvre de l’espace sans rien exiger.",
-    "May play remain simple, dignified, and free.": "Que le jeu demeure simple, digne et libre.",
-    "About Moving Truth": "À propos de Moving Truth",
-    "Moving Truth. Opens movingtruth.com": "Moving Truth. Ouvre movingtruth.com",
-    "Moving Truth logo": "Logo de Moving Truth",
-    "by Moving Truth": "par Moving Truth",
-    "Made with love by Skylaur Roe": "Créé avec amour par Skylaur Roe",
-    "Explore all Moving Truth apps": "Explorer toutes les apps Moving Truth",
-    "The first objects are taking shape.": "Les premiers objets prennent forme.",
-    "Inner Play is being built natively for iPhone. Its first proof begins with one believable spinner and one physical switch before the cabinet grows.": "Inner Play est développé nativement pour iPhone. Sa première preuve commence par une roue crédible et un interrupteur physique, avant que le cabinet ne s’agrandisse.",
-    "Ask about Inner Play": "Poser une question sur Inner Play",
-    "Footer navigation": "Navigation du pied de page",
-    "Accessibility": "Accessibilité",
-    "Support": "Assistance",
-    "© 2026 Inner Play by Moving Truth. Coming to iPhone.": "© 2026 Inner Play par Moving Truth. Bientôt sur iPhone."
-  },
-  "scriptTranslations": {
-    "Close navigation": "Fermer la navigation",
-    "Open navigation": "Ouvrir la navigation"
+  "schema": "release-fabric/catalog@2",
+  "messages": {
+    "inner-play.index.text.0001": {
+      "value": "Inner Play — par Moving Truth",
+      "sourceSha256": "750f36853c2aaba671cd7c185ac3aec635c5873767599e3cd18f24036189ca2a"
+    },
+    "inner-play.index.text.0002": {
+      "value": "Aller au contenu principal",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-play.index.text.0003": {
+      "value": "Ouvrir la navigation",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-play.index.text.0004": {
+      "value": "Les objets",
+      "sourceSha256": "5bc7872272afd8ba3ba1c05870da3f4fc3bbcf6dd322c5e026bf4439026e969d"
+    },
+    "inner-play.index.text.0005": {
+      "value": "Leur réponse",
+      "sourceSha256": "3efbad1166e24b20fc6f094c135757275e9b2d3f73bd5adfa6e91b073965d30f"
+    },
+    "inner-play.index.text.0006": {
+      "value": "Pensé pour vos sens",
+      "sourceSha256": "b84c66fcafaa7956dacc09c702469f50db7c8e70157a906b2d5f145517c33047"
+    },
+    "inner-play.index.text.0007": {
+      "value": "Disponibilité",
+      "sourceSha256": "12f67f8539c46701e62d1c50254cf025c22a992b06fea6d4c0e19705f21f4cac"
+    },
+    "inner-play.index.text.0008": {
+      "value": "Toutes les apps",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-play.index.text.0009": {
+      "value": "Icône provisoire",
+      "sourceSha256": "274c846c048c2a41dc6b42e06566ba3382ce3fb84dfc08f99988256163239857"
+    },
+    "inner-play.index.text.0010": {
+      "value": "Quelque chose pour vos mains. De l’espace pour votre esprit.",
+      "sourceSha256": "1e63725203af3e1af776567c24098ee517d7538df15927dccd0803a26894bf3e"
+    },
+    "inner-play.index.text.0011": {
+      "value": "Bientôt disponible",
+      "sourceSha256": "4f7d64017689437e6d93f5724f3f797054f3935d98a13148025b616b8db8fb2c"
+    },
+    "inner-play.index.text.0012": {
+      "value": "Ouvrir le cabinet",
+      "sourceSha256": "93e924dc46f16b46a3b770c5b266ac33843ebf22f44555fb5c3872c537251c2b"
+    },
+    "inner-play.index.text.0013": {
+      "value": "faites défiler pour tendre la main",
+      "sourceSha256": "8f336d19683904f742f433aaea302d1def507141ae130922089f08ecc347f188"
+    },
+    "inner-play.index.text.0014": {
+      "value": "Comme ouvrir, dans une pièce calme, un tiroir rempli d’objets bien façonnés.",
+      "sourceSha256": "5db4c5c321574b3d84417deda987ed7f1ac4c40d00873015f2ec3a04b1fedb9d"
+    },
+    "inner-play.index.text.0015": {
+      "value": "Inner Play est un petit cabinet d’objets numériques tactiles. Faites tourner quelque chose qui semble avoir du poids. Franchissez le seuil d’un interrupteur. Tournez, glissez, appuyez, maintenez, relâchez — et sentez l’objet répondre avec justesse.",
+      "sourceSha256": "802ec657bd062bb1962bfb1dae2866cc8b4c9e4069660fd974f42e21a72b383c"
+    },
+    "inner-play.index.text.0016": {
+      "value": "Ni tâche. Ni leçon. Ni score à améliorer. Simplement un endroit où poser les mains.",
+      "sourceSha256": "e41c17a93bf25b041a30e52b7e92f27883ad5f5b998d3ba0eed65cb7fc90cf68"
+    },
+    "inner-play.index.text.0017": {
+      "value": "Tourner",
+      "sourceSha256": "b9e96ae52a7b7115022a979b3151221b0e6e9ce0c219933b2d84b29a7f47ecc7"
+    },
+    "inner-play.index.text.0018": {
+      "value": "Basculer",
+      "sourceSha256": "39921a740bf2b67802a2042e1f87e9dec566131c2458aba5683e2827ced0d2c3"
+    },
+    "inner-play.index.text.0019": {
+      "value": "Faire glisser",
+      "sourceSha256": "6bb4c1177681ec4eb53bb315e71185f702e52f845cc7ff3ae114c41464f67510"
+    },
+    "inner-play.index.text.0020": {
+      "value": "Appuyer et maintenir",
+      "sourceSha256": "bbe7c64270b743d430f3157ae9aa650628c766b7d602c07f7d0a93b4a6170835"
+    },
+    "inner-play.index.text.0021": {
+      "value": "La main y croit-elle ?",
+      "sourceSha256": "91129933a4859b62dcef77c38ac917944522342c3de11df45f1b7eb101fc157d"
+    },
+    "inner-play.index.text.0022": {
+      "value": "Chaque réponse vient du même état physique.",
+      "sourceSha256": "59e5b2b1cb1b4330534905a613def7c9dc263432a8ee8ca37ec5cf590fdacf51"
+    },
+    "inner-play.index.text.0023": {
+      "value": "Un objet paraît réel lorsque son mouvement, sa résistance, son son, ses sensations et son état visible racontent la même chose. Inner Play est construit pour que le toucher crée la réponse — pas pour qu’une animation préfabriquée fasse semblant.",
+      "sourceSha256": "2a1f0e5623bc4f611b63c4849c5ec809121069bad9a276b1c03359b8db72bdad"
+    },
+    "inner-play.index.text.0024": {
+      "value": "Un mouvement qui a des conséquences",
+      "sourceSha256": "6da32e3325c6ef6f21923ed4679039d9409d1d496b606b8a417edd106175d5c2"
+    },
+    "inner-play.index.text.0025": {
+      "value": "Élan, seuils, course, friction et repos appartiennent à l’objet.",
+      "sourceSha256": "60e30d7e519b0ea0f10db38f84d906488b243fc73c4a284de1500d98374ede66"
+    },
+    "inner-play.index.text.0026": {
+      "value": "Un son né du mouvement",
+      "sourceSha256": "a330a7e298bec223b07141b0a8dbf742fbeff45eafecc9a7e20d8d7db50ca5b9"
+    },
+    "inner-play.index.text.0027": {
+      "value": "La vitesse, le contact et la position façonnent ce que vous entendez, et quand vous l’entendez.",
+      "sourceSha256": "91977e5e27fd0e74dad65177b3752f4bb637fc431c192cece3df3192d0928925"
+    },
+    "inner-play.index.text.0028": {
+      "value": "Des sensations qui ont une raison",
+      "sourceSha256": "75ed19fcbb43677083e26b09fe24a2b41439439ca8c637bc6cb1ff4b8e01f3ff"
+    },
+    "inner-play.index.text.0029": {
+      "value": "Crans, texture, activation et relâchement se font sentir aux moments qui comptent.",
+      "sourceSha256": "6bc66fa456f253c1b70c69206b8951884906faa6524a6237461f006b8dcd7381"
+    },
+    "inner-play.index.text.0030": {
+      "value": "Un état qui reste fidèle",
+      "sourceSha256": "b59085479459fdbf015393f7bfb7621eb72395640ca9d51362cdfd59db6bd6c8"
+    },
+    "inner-play.index.text.0031": {
+      "value": "L’objet reste là où l’interaction l’a laissé jusqu’à ce que quelque chose le remette en mouvement.",
+      "sourceSha256": "caed652c4e71d16c28992db1923434d0369bbdf66e4824906ed4171a810ec831"
+    },
+    "inner-play.index.text.0032": {
+      "value": "Jouer sans pression",
+      "sourceSha256": "35f3fbb5f7ff4aaee2bc89bec852b1a984dd885f03201f8da32ba018c3cf8fdd"
+    },
+    "inner-play.index.text.0033": {
+      "value": "Pas de série. Pas de score. Aucune obligation de revenir.",
+      "sourceSha256": "af4422aa4c0ee29e357ddb139ccc7eff2a3da2368f9a831c33e2a31e0b609b27"
+    },
+    "inner-play.index.text.0034": {
+      "value": "Inner Play peut être satisfaisant sans devenir bruyant, et ludique sans être infantilisant. Ouvrez le cabinet, utilisez ce qui vous convient, puis partez sans pénalité.",
+      "sourceSha256": "9c8c6c0dbbbbca94db11333aa6f9532e998e4e97c54e63c7a00d724bbb7f7afc"
+    },
+    "inner-play.index.text.0035": {
+      "value": "L’app propose un jeu sensoriel et des interactions propices à l’attention, sans promesse médicale.",
+      "sourceSha256": "efc98fff0cc4299332ffea1c98715a9b2775274b07b1eea1b76c9c48d528c266"
+    },
+    "inner-play.index.text.0036": {
+      "value": "Pensé pour vos sens",
+      "sourceSha256": "b84c66fcafaa7956dacc09c702469f50db7c8e70157a906b2d5f145517c33047"
+    },
+    "inner-play.index.text.0037": {
+      "value": "Riche lorsque vous le souhaitez. Entier même lorsqu’un sens est désactivé.",
+      "sourceSha256": "25501c6145841353f5fd5ea861fab762c547befed74b9d1b1c9671f76485236c"
+    },
+    "inner-play.index.text.0038": {
+      "value": "Le son et les sensations auront des commandes indépendantes. Le silence est un mode complet. Réduire les animations préservera une relation claire entre cause et effet avec moins de mouvement continu. VoiceOver présentera l’objet, son état et les gestes utiles pour agir sur lui.",
+      "sourceSha256": "69c21a287d89e67dd5e37000d6ab699eeb96b1d174d72f2758999dbc9f4cb7cd"
+    },
+    "inner-play.index.text.0039": {
+      "value": "Aucun état ne dépend uniquement de la couleur, du son, du mouvement, de la vue ou du retour haptique.",
+      "sourceSha256": "9562221efccef2bf8fdd8cb78b4ab894b2822b3affd2e1f0a2f7a89c7bbddb23"
+    },
+    "inner-play.index.text.0040": {
+      "value": "Chaque objet principal reste utilisable lorsque le son ou les sensations sont désactivés.",
+      "sourceSha256": "0d07f68208ee3cfadb3af7947e50e9ed9022e474619d2f3c2a08d7debd5cdad6"
+    },
+    "inner-play.index.text.0041": {
+      "value": "Les zones tactiles et les actions de remplacement font partie de l’objet dès le départ.",
+      "sourceSha256": "f2b2e15bb80e768b0d1419a6507a3334df7d3dab55b6be4187ff4b88c6fdd710"
+    },
+    "inner-play.index.text.0042": {
+      "value": "L’accessibilité participe à définir ce qu’est l’objet — elle n’est pas ajoutée autour de lui après coup.",
+      "sourceSha256": "5021611c5274d93e515fe5a076820e75a5c10aaa88259d4e51e72c6f4b313ba1"
+    },
+    "inner-play.index.text.0043": {
+      "value": "Une intention pour Inner Play",
+      "sourceSha256": "da542a347a2759ed5ad41e1903cdd29bca09bc7d319777c66c4c91412225a572"
+    },
+    "inner-play.index.text.0044": {
+      "value": "Que chaque objet réponde avec justesse à la main.",
+      "sourceSha256": "87c5c9d59571afb3f52c0400fd8f5bade067e726879782ad1d4e37feccef2d9e"
+    },
+    "inner-play.index.text.0045": {
+      "value": "Que le mouvement ouvre de l’espace sans rien exiger.",
+      "sourceSha256": "bf3b641d21f364286855dc1a6b74b998eb7a6acc787b187848e9f9cb40fef867"
+    },
+    "inner-play.index.text.0046": {
+      "value": "Que le jeu demeure simple, digne et libre.",
+      "sourceSha256": "e1e64fd70eab75c05ac77e2e1c88af6411ccd8e4f635f4a2fb3d131e80489b93"
+    },
+    "inner-play.index.text.0047": {
+      "value": "par Moving Truth",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    "inner-play.index.text.0048": {
+      "value": "Créé avec amour par Skylaur Roe",
+      "sourceSha256": "8973d1d4a4d34a688cb6e6d9080ec19b076e65b44fac74776e850e1cfb0f6562"
+    },
+    "inner-play.index.text.0049": {
+      "value": "Explorer toutes les apps Moving Truth",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    "inner-play.index.text.0050": {
+      "value": "Bientôt disponible",
+      "sourceSha256": "4f7d64017689437e6d93f5724f3f797054f3935d98a13148025b616b8db8fb2c"
+    },
+    "inner-play.index.text.0051": {
+      "value": "Les premiers objets prennent forme.",
+      "sourceSha256": "37b2cb01e904685f7ea374320b186c906d118020c1a0899bff57b234a09e232a"
+    },
+    "inner-play.index.text.0052": {
+      "value": "Inner Play est développé nativement pour iPhone. Sa première preuve commence par une roue crédible et un interrupteur physique, avant que le cabinet ne s’agrandisse.",
+      "sourceSha256": "3c4caa23850544e807e6efbeb7d1c6c7d72702f69e407cbb42debfa0816c3c0f"
+    },
+    "inner-play.index.text.0053": {
+      "value": "Poser une question sur Inner Play",
+      "sourceSha256": "699e474a0dbf07560a472f30bc8cbfad9e5ba97ae4af089359b441a8984df6f7"
+    },
+    "inner-play.index.text.0054": {
+      "value": "Les objets",
+      "sourceSha256": "5bc7872272afd8ba3ba1c05870da3f4fc3bbcf6dd322c5e026bf4439026e969d"
+    },
+    "inner-play.index.text.0055": {
+      "value": "Leur réponse",
+      "sourceSha256": "3efbad1166e24b20fc6f094c135757275e9b2d3f73bd5adfa6e91b073965d30f"
+    },
+    "inner-play.index.text.0056": {
+      "value": "Accessibilité",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-play.index.text.0057": {
+      "value": "Assistance",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-play.index.text.0058": {
+      "value": "Toutes les apps",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-play.index.text.0059": {
+      "value": "© 2026 Inner Play par Moving Truth. Bientôt sur iPhone.",
+      "sourceSha256": "d8c16a6c664154c3d3f2b63df3c91803c20ad82dcd1e810b4e944990bde98de8"
+    },
+    "inner-play.index.attribute.0001": {
+      "value": "Inner Play est un cabinet paisible d’objets numériques tactiles : mouvements, sons et sensations crédibles pour les mains qui ont besoin de bouger. Bientôt sur iPhone.",
+      "sourceSha256": "8510a61e71d758658156ff4b03f6b36de21e7b66c9649e4d3450e4d86b4929cd"
+    },
+    "inner-play.index.attribute.0002": {
+      "value": "Inner Play — par Moving Truth",
+      "sourceSha256": "750f36853c2aaba671cd7c185ac3aec635c5873767599e3cd18f24036189ca2a"
+    },
+    "inner-play.index.attribute.0003": {
+      "value": "Quelque chose pour vos mains. De l’espace pour votre esprit.",
+      "sourceSha256": "1e63725203af3e1af776567c24098ee517d7538df15927dccd0803a26894bf3e"
+    },
+    "inner-play.index.attribute.0004": {
+      "value": "Accueil d’Inner Play",
+      "sourceSha256": "7e2c69f88dc285d42b5b61be90781c4c08e8f9108163349afd11103f2d3e8324"
+    },
+    "inner-play.index.attribute.0005": {
+      "value": "Navigation principale",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-play.index.attribute.0006": {
+      "value": "Icône provisoire d’Inner Play : un cadran cinétique en métal sombre, éclairé d’une lueur chaude intérieure",
+      "sourceSha256": "7af4595e2653269f09315f9d598afa3a7a2ef9a1a804c1724f64e6399964e75e"
+    },
+    "inner-play.index.attribute.0007": {
+      "value": "Bientôt sur iPhone",
+      "sourceSha256": "4f94b16d081a4fcdffecf1eb355a8fddac4bcf388b396e40fd9c80d7e029aec9"
+    },
+    "inner-play.index.attribute.0008": {
+      "value": "Façons d’interagir avec Inner Play",
+      "sourceSha256": "0ce1c8b240b8ab86247ef205cef4d441636a3e2622ef044473375e8c489298c7"
+    },
+    "inner-play.index.attribute.0009": {
+      "value": "À propos de Moving Truth",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    "inner-play.index.attribute.0010": {
+      "value": "Moving Truth. Ouvre movingtruth.com",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    "inner-play.index.attribute.0011": {
+      "value": "Logo de Moving Truth",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    "inner-play.index.attribute.0012": {
+      "value": "Navigation du pied de page",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-play.index.script.0001": {
+      "value": "Ouvrir la navigation",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-play.site-js.script.0001": {
+      "value": "Fermer la navigation",
+      "sourceSha256": "99904db30de4a2a32ee6672a99e77e79c482d4e188860695723d3dd306749879"
+    },
+    "inner-play.site-js.script.0002": {
+      "value": "Ouvrir la navigation",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    }
   }
 }
